@@ -78,5 +78,5 @@ const pages = [
   `;
   };
   
-  export { navmenuApp };
+  export { navmenuApp};
   
